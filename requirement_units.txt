@@ -1,4 +1,4 @@
-keras==2.7.0
+keras==2.13.1
 numpy==1.21.2
 prettytable==2.4.0
 scikit_learn==1.0.1
